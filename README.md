@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>This is htmljsp project assignment 4 that I'm taking in a bootcamp</title>
+<title>This is htmljsp project assignment 4 from the bootcamp I'm part of.</title>
   <br>
   This code should work in eclipse IDE with tomcat v9.0
 </head>
